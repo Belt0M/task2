@@ -1,0 +1,21 @@
+{
+  "name": "test-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-glsl": "2.10.0",
+    "parcel": "^2.10.0",
+    "raw-loader": "^4.0.2"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.157.0"
+  }
+}
